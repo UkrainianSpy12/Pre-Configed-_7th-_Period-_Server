@@ -22,7 +22,7 @@
 do-teleport-wait: true
 
 # The countdown before teleportation (in seconds)
-teleport-wait: 5
+teleport-wait: 3
 
 # Should those with homes.admin teleport instantly
 admin-bypass-wait: true
@@ -40,7 +40,7 @@ overwrite-homes: false
 multi-world: true
 
 # Should the teleport be cancelled if you move while waiting
-cancel-on-move: true
+cancel-on-move: True
 # The message to send if you move while waiting and cancel-on-move is true
 move-cancel-message: "&cYou moved, teleport cancelled"
 
@@ -60,7 +60,7 @@ teleport-color: "&a"
 teleport-message: "Teleported!"
 
 # Message to show when at maximum home count
-max-homecount-message: "&cYou have reached the maximum amount of homes"
+max-homecount-message: "&cIf you want to keep this place you will have to walk lazy ah nga"
 
 # Message to show when trying to access admin commands without homes.admin
 invalid-perm-message: "&cInvalid permissions"
