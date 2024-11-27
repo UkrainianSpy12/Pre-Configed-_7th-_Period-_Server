@@ -1,0 +1,6 @@
+use-roster-system: true
+join-faction-cooldown: 5
+rotate-offline-players: true
+limit-faction-roster-kicks: true
+max-faction-roster-kicks: 5
+roster-limit: 20
