@@ -88,7 +88,7 @@ ingredients:
 spawnersUnstackable: false
 
 # Should the egg be consumed when the spawner is changed with it
-consumeEgg: true
+consumeEgg: false
 
 # Fallback if the creature should be enabled, if not specified for the entity
 enableCreatureDefault: true
@@ -148,7 +148,7 @@ factionsSupport: false
 spillSpawnersFromCommands: false
 
 # Check for spigot.yml and paper.yml flags that conflict with SilkSpawners
-checkForNerfFlags: true
+checkForNerfFlags: false
 
 # Puts more information out on startup and interactions, such as block placement and breaking
 verboseMode: false
